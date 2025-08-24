@@ -5,7 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: '/MetodoBarras'
+  basePath: '/MetodoBarras', // nombre de tu repositorio
+  assetPrefix: '/MetodoBarras/'
 }
 
 module.exports = nextConfig
